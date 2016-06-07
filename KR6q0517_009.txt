@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:29.308573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:55
 #+TITLE: 寒松操禪師語錄
 #+PROPERTY: CBETA_ID J37nB392
 #+PROPERTY: ID KR6q0517
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 37, No. B392
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0517_J_009-0596a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
-
- 第九（原書闕）¶
+¶
 
 原書闕
 <pb:KR6q0517_J_009-0596b>¶

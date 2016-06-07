@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:29.430509
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:55
 #+TITLE: 寒松操禪師語錄
 #+PROPERTY: CBETA_ID J37nB392
 #+PROPERTY: ID KR6q0517
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 37, No. B392
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0517_J_013-0610b> 
 #+PROPERTY: JUAN 13
-
- 寒松操禪師語錄卷第十三¶
+寒松操禪師語錄卷第十三¶
 嗣法門人德泰編錄¶
 
-拈頌古二¶
+* 拈頌古(七十一則)¶
 
 「龍牙遁禪師參洞山問如何是祖師西來意山云¶
 待洞水逆流即向汝道牙始悟。」¶
